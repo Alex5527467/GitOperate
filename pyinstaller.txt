@@ -1,0 +1,2 @@
+pyinstaller -F C:\Users\Alex\TrajectoryCreate\TrajectoryV1\IntialTrajectory.py --noconsole 
+--icon="C:\Users\Alex\TrajectoryCreate\TrajectoryV1\11.ico" --distpath=C:\Users\Alex\TrajectoryCreate\TrajectoryV1
