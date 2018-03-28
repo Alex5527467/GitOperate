@@ -1,0 +1,1 @@
+pyuic4 -x C:\Users\Alex\TrajectoryCreate\TrajectoryV1\UI_Maindow.ui -o C:\Users\Alex\TrajectoryCreate\TrajectoryV1\UI_Maindow.py
